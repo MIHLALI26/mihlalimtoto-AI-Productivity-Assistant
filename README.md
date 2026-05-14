@@ -1,4 +1,4 @@
-#AI Workplace Productivity Assistant
+# AI Workplace Productivity Assistant
 ---
 A modern AI-powered productivity platform designed to help professionals automate common workplace tasks using artificial intelligence.
 
